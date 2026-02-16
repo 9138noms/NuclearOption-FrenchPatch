@@ -1,6 +1,6 @@
 # Nuclear Option – Patch français (Localization Patch)
 
-Mod de traduction française pour Nuclear Option. Fonctionne comme plugin BepInEx et traduit l'interface, l'encyclopédie, les astuces et les infobulles — soit **1 427 entrées** au total.
+Mod de traduction française pour Nuclear Option. Fonctionne comme plugin BepInEx et traduit l'interface, l'encyclopédie, les astuces et les infobulles — soit **1 447 entrées** au total.
 
 ## Prérequis
 
@@ -29,7 +29,7 @@ Mod de traduction française pour Nuclear Option. Fonctionne comme plugin BepInE
 | Fichier | Description |
 |---------|-------------|
 | `LocalizationPatch.dll` | Plugin du patch |
-| `fr.json` | Données de traduction française (1 427 entrées) |
+| `fr.json` | Données de traduction française (1 447 entrées) |
 
 ## Raccourcis clavier en jeu
 
